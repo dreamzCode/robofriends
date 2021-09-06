@@ -1,2 +1,3 @@
 # robofriends
-A Simple React Aplication with API
+##*Simple Robohash API Application using React
+
